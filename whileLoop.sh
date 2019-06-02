@@ -6,3 +6,8 @@ while [[ -n "$name" ]]; do
   read name
   echo "Name: $name"
 done
+
+while IFS= read -r line
+do
+  echo "$line"
+done < multiline.txt
