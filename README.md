@@ -23,3 +23,5 @@ Repo for various shell scripts
   Using break and continue
 * _**fileRW.sh**_  
   Basic file reading and writing
+* _**getEmails.sh**_  
+  Practice script to get developer emails from a given GitHub repos list
