@@ -1,7 +1,9 @@
 # shell-scripts
 Repo for various shell scripts
 
-## Created multiple files to practice basic bash scripting
+### Created multiple files to practice basic bash scripting
+
+The following are found in the [basics](basics) folder.
 
 * _**helloworld.sh**_  
   Traditional Hello World in bash
@@ -25,3 +27,8 @@ Repo for various shell scripts
   Basic file reading and writing
 * _**getEmails.sh**_  
   Practice script to get developer emails from a given GitHub repos list
+
+### Useful scripts
+
+* _**diceware.sh**_
+  Generating passwords with multiple random words. Script by [Roman Zolotarev](https://rgz.ee/).
