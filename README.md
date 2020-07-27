@@ -30,5 +30,5 @@ The following are found in the [basics](basics) folder.
 
 ### Useful scripts
 
-* _**diceware.sh**_
-  Generating passwords with multiple random words. Script by [Roman Zolotarev](https://rgz.ee/).
+* _**diceware.sh**_  
+  Generating passwords with multiple random words. Script by [Roman Zolotarev](https://rgz.ee/)
