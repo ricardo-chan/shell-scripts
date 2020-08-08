@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo 'Updating brew packages'
+
+brew update
+brew upgrade
+brew cask upgrade
+
+echo 'Cleaning caches & directories'
+brew cleanup -s
+
+echo 'Update complete!'
