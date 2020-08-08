@@ -32,3 +32,5 @@ The following are found in the [basics](basics) folder.
 
 * _**diceware.sh**_  
   Generating passwords with multiple random words. Script by [Roman Zolotarev](https://rgz.ee/)
+* _**update**_  
+  Updates homebrew packages and casks, and cleans the cache.
