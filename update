@@ -4,7 +4,7 @@ echo 'Updating brew packages'
 
 brew update
 brew upgrade
-brew cask upgrade
+brew upgrade --cask
 
 echo 'Cleaning caches & directories'
 brew cleanup -s
